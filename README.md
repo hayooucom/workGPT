@@ -8,6 +8,9 @@ This Project is both python and web host.
 
 We may build web host first,based on https://ai.zyinfo.pro .
 
+Join us on Discord :
+https://discord.gg/4nAcbEYsfD
+
 # Main work flow:
 
 ![main](https://raw.githubusercontent.com/hayooucom/workGPT/main/pics/main-work.png)
